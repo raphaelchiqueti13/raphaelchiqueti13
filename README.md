@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Raphael Chiqueti! 👋
 
-<!--
-**raphaelchiqueti13/raphaelchiqueti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** na **UNICID** (2º semestre) e entusiasta do desenvolvimento **Front-end**. Gosto de transformar ideias em interfaces interativas e funcionais.
 
-Here are some ideas to get you started:
+### 💻 Minha Stack de Estudos:
+- **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
+- **Frameworks/Libraries:** React.js.
+- **Ferramentas:** Git, GitHub e VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim:
+- 🎓 Atualmente aprofundando meus conhecimentos em lógica de programação e arquitetura de sistemas na faculdade.
+- 🎨 Focado em criar experiências de usuário (UX) modernas e responsivas com React.
+- 💼 Tenho facilidade com resolução de problemas e comunicação, habilidades que trouxe das minhas experiências anteriores em logística e atendimento.
+
+
+
+
+  
