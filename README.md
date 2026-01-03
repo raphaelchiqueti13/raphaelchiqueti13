@@ -26,3 +26,9 @@ Estudante de **Ciência da Computação** na **UNICID** (2º semestre) e entusia
   <hr>
 <a href="https://www.linkedin.com/in/raphael-chiqueti-bezerra-36ba3a252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<hr>
+
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://github.com/raphaelchiqueti13/raphaelchiqueti13/blob/output/github-contribution-grid-snake.svg)
+
