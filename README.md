@@ -1,4 +1,6 @@
-# Olá, eu sou o Raphael Chiqueti! 👋
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=LOGGING+INTO+SYSTEM...;INITIALIZING+DEVELOPER+CORE...;>_RAPHAEL_CHIQUETI_V.1.0;FULLSTACK_DEVELOPER" alt="Typing SVG" />
+</div>
 
 Estudante de **Ciência da Computação** na **UNICID** (2º semestre) e entusiasta do desenvolvimento **Front-end**. Gosto de transformar ideias em interfaces interativas e funcionais.
 
