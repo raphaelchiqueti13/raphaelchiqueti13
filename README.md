@@ -31,5 +31,5 @@ Estudante de **Ciência da Computação** na **UNICID** (2º semestre) e entusia
 
 ## 🐍 Jogo da Cobrinha
 
-![Snake animation](https://github.com/raphaelchiqueti13/raphaelchiqueti13/blob/output/github-contribution-grid-snake.svg)
+![Jogo da Cobrinha](https://raw.githubusercontent.com/raphaelchiqueti13/raphaelchiqueti13/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
